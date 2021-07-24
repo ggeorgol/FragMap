@@ -1,5 +1,5 @@
 # FragMap
-Workflow to map and count sequencing reads to genomic regions
+Map and count sequencing reads to genomic regions
 
 It requires 6 positional arguments to run:
 
