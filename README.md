@@ -1,2 +1,2 @@
 # FragMap
-Workflow to Map Sequencing Reads to Genomic Locations
+Workflow to map and count sequencing reads to genomic regions
